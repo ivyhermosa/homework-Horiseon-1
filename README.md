@@ -6,7 +6,7 @@ homework-Horiseon-1
 
 # github repo:
 
-
+git@github.com:ivyhermosa/homework-Horiseon-1.git
 
 # deployed url:
 
