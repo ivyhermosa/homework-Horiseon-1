@@ -10,6 +10,7 @@ homework-Horiseon-1
 
 # deployed url:
 
+https://ivyhermosa.github.io/homework-Horiseon-1/
 
 
 # screenshot: 
